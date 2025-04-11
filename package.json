@@ -14,7 +14,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "newman": "^6.2.1",
+    "newman": "^6.2.0",
     "newman-reporter-htmlextra": "^1.23.1",
     "yaml-server": "^1.10.0"
   }
